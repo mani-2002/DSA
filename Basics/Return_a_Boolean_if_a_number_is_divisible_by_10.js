@@ -1,4 +1,4 @@
-var n = 104;
+var n = 105;
 if(n%10 === 0){
     console.log(true);
 }
